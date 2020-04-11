@@ -1,3 +1,26 @@
+## hokuyo3d (kinetic) - 0.2.1-1
+
+The packages in the `hokuyo3d` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web --ros-distro kinetic --override-release-repository-push-url https://github.com/at-wat/hokuyo3d-release.git hokuyo3d` on `Sat, 11 Apr 2020 01:58:01 -0000`
+
+The `hokuyo3d` package was released.
+
+Version of package(s) in repository `hokuyo3d`:
+
+- upstream repository: https://github.com/at-wat/hokuyo3d.git
+- release repository: https://github.com/at-wat/hokuyo3d-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.2.0-0`
+- new version: `0.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## hokuyo3d (lunar) - 0.2.0-0
 
 The packages in the `hokuyo3d` repository were released into the `lunar` distro by running `/usr/local/bin/bloom-release hokuyo3d --track lunar --ros-distro lunar --edit` on `Sat, 24 Mar 2018 14:40:49 -0000`
