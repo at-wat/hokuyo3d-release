@@ -1,3 +1,26 @@
+## hokuyo3d (melodic) - 0.2.1-1
+
+The packages in the `hokuyo3d` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release hokuyo3d --track melodic --ros-distro melodic` on `Sat, 11 Apr 2020 02:05:07 -0000`
+
+The `hokuyo3d` package was released.
+
+Version of package(s) in repository `hokuyo3d`:
+
+- upstream repository: https://github.com/at-wat/hokuyo3d.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## hokuyo3d (kinetic) - 0.2.1-1
 
 The packages in the `hokuyo3d` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web --ros-distro kinetic --override-release-repository-push-url https://github.com/at-wat/hokuyo3d-release.git hokuyo3d` on `Sat, 11 Apr 2020 01:58:01 -0000`
